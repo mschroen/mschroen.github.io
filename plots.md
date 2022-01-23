@@ -1,0 +1,3 @@
+# Test
+
+{% include figure.html %}
